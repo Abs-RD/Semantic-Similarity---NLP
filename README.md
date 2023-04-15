@@ -1,5 +1,5 @@
 # Semantic-Similarity--NLP
 
-Finding interesting similarities abount entities (tokens) and
+Finding interesting similarities between entities (tokens) using
 
-the between language models ‘en_core_web_sm’ and 'en_core_web_md'
+language models ‘en_core_web_sm’ and 'en_core_web_md'
